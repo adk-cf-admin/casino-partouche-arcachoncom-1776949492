@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-partouche-arcachon.com/
+Sitemap: https://casino-partouche-arcachon.com/sitemap.xml

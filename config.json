@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000001",
+            "lang-select-color": "#222829",
+            "bg-light": "#000001",
+            "welcome-bonus-bg": "#000001",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#313131",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#CD2D26",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#CD2D26",
+            "yellow": "#ffffff",
+            "yellow-button": "#CD2D26",
+            "button-text": "#000000",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000001",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#000001",
+            "faq-label": "#000001",
+            "bg-footer": "#000001",
+            "copyright": "#e7e7d5",
+            "starColor": "#CD2D26",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6712"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6713",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Partouche Arcachon Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6714",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Partouche Arcachon"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Partouche Arcachon",
+                    "title": "Casino Partouche Arcachon — Jeux & Divertissement",
+                    "description": "Jouez au Casino Partouche Arcachon dans le majestueux Château Deganne. Machines à sous, Blackjack, Roulette électronique & restaurant O'Deganne. Ouvert 7j\/7 !",
+                    "canonical": "casino-partouche-arcachon.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6715",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-partouche-arcachon.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6716"
+                },
+                "hero": {
+                    "title": "Le Casino Incontournable du Bassin d'Arcachon",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6717",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6718",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "À la recherche d'une soirée inoubliable en Gironde ? Notre casino, niché dans le Château Deganne à Arcachon, vous accueille 7j\/7 dans un cadre historique exceptionnel agréé par les autorités françaises de régulation des jeux. Voici ce qui fait de nous le premier choix des joueurs du Bassin d'Arcachon :",
+                    "items": [
+                        "75 machines à sous certifiées, disponibles dès 11h chaque jour",
+                        "Jeux de table : Blackjack, Boule 2000, Roulette anglaise électronique",
+                        "Restaurant O'Deganne : cuisine raffinée avec vue sur le Bassin d'Arcachon",
+                        "Programme de fidélité Players Plus — 5 € offerts dès l'adhésion",
+                        "Groupe Partouche agréé, opérateur officiel de 41 casinos en France depuis 1973",
+                        "Concerts et animations gratuits chaque samedi soir au Château Deganne"
+                    ],
+                    "advantagesAfterText": "Rejoignez des milliers de joueurs qui font confiance à notre casino agréé à Arcachon. Notre équipe vous accueille 7j\/7 pour une soirée d'exception au cœur de la Gironde.",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Partouche Arcachon App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6719",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Partouche Arcachon App",
+                    "mobileGooglePlayImageTitle": "Partouche Arcachon App",
+                    "mobileIosImageTitle": "Partouche Arcachon App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "Notre Histoire à Arcachon",
+                        "description1": "Niché dans le majestueux Château Deganne, notre casino est un lieu emblématique du Bassin d'Arcachon depuis des décennies. Membre du Groupe Partouche, nous offrons jeux certifiés, animations et gastronomie dans un cadre historique unique en Gironde.",
+                        "items": [
+                            "Intégration au Groupe Partouche, leader français des casinos",
+                            "Installation dans le Château Deganne, monument historique d'Arcachon",
+                            "Lancement du restaurant gastronomique O'Deganne",
+                            "Introduction de la Roulette anglaise électronique et Players Plus"
+                        ],
+                        "description2": "Notre casino est agréé et opère sous la réglementation française des jeux. Nos machines à sous et jeux de table sont certifiés par les autorités compétentes, garantissant équité et transparence totales pour chaque joueur à Arcachon.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6720",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Nous enrichissons constamment nos jeux et animations pour les joueurs d'Arcachon. Le jeu responsable reste notre priorité absolue. Venez découvrir pourquoi nous sommes l'incontournable du Bassin d'Arcachon !"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Nos Jeux au Cœur du Bassin d'Arcachon",
+                        "description": "<h2>L'Univers des Jeux du Casino Partouche Arcachon<\/h2>\n\n<p>Bienvenue dans notre salle de jeux d'exception, nichée au cœur du majestueux <strong>Château Deganne à Arcachon<\/strong>, en Gironde. Notre établissement de divertissement, agréé par les autorités françaises de régulation, vous propose une expérience de jeu complète et inoubliable. Que vous soyez passionné de machines à sous, adepte des jeux de table ou amateur de roulette électronique, notre casino réunit tout ce qu'il faut pour une soirée réussie au bord du Bassin d'Arcachon. Nous accueillons nos joueurs <strong>7 jours sur 7<\/strong>, avec une ouverture des machines à sous dès 11h et des jeux traditionnels chaque soir à partir de 20h30, permettant à chacun de profiter de son moment préféré, à l'heure qui lui convient le mieux.<\/p>\n\n<h3>Nos Machines à Sous : Sensations Garanties<\/h3>\n<p>Notre salle de jeux propose <strong>75 machines à sous<\/strong> soigneusement sélectionnées pour offrir une variété incomparable à tous nos visiteurs. Des rouleaux mécaniques aux machines vidéo modernes, en passant par des postes de vidéo poker, chaque joueur trouve facilement son bonheur. Les mises s'adaptent à tous les budgets, de quelques centimes à plusieurs euros par partie, vous permettant de maîtriser parfaitement votre expérience de jeu à Arcachon. Nos machines sont ouvertes dès <strong>11h chaque jour<\/strong>, idéales pour une pause divertissante pendant votre séjour en Gironde ou une soirée complète de plaisir sur le front de mer d'Arcachon.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Rouleaux mécaniques :<\/strong> Les classiques intemporels qui font battre le cœur des amateurs de sensations. Mises accessibles dès 0,01 € pour une expérience de jeu adaptée à tous les budgets des joueurs du Bassin d'Arcachon.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Rouleaux vidéo :<\/strong> Les machines nouvelle génération avec graphismes immersifs, multiples lignes de paiement et bonus intégrés. Profitez de thèmes variés et de fonctionnalités exclusives disponibles dans notre salle de jeux d'Arcachon.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Vidéo Poker :<\/strong> Pour les joueurs qui aiment combiner stratégie et chance, nos postes de vidéo poker offrent une expérience unique avec des taux de retour parmi les meilleurs du marché, certifiés conformes par les autorités françaises.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Disponibilité 7j\/7 :<\/strong> Nos machines à sous ouvrent chaque jour dès 11h et fonctionnent jusqu'à 1h du matin (3h les vendredis et samedis), pour vous offrir un maximum de flexibilité lors de votre séjour en Nouvelle-Aquitaine.<\/li>\n<\/ul>\n\n<h3>Jeux de Table Traditionnels : L'Art du Jeu à la Française<\/h3>\n<p>Chaque soir à partir de <strong>20h30<\/strong> — et dès 16h30 le dimanche — notre salle de jeux s'anime avec l'ouverture de nos jeux de table traditionnels. Cette ambiance festive et conviviale est la marque de fabrique de notre casino du Château Deganne. Nos tables de Blackjack accueillent aussi bien les débutants curieux que les joueurs expérimentés, avec des croupiers professionnels formés aux standards du <strong>Groupe Partouche<\/strong>. La Boule 2000, jeu typiquement français, est l'une de nos attractions phares : simple à apprendre, captivante à maîtriser, elle rassemble chaque soir des joueurs de tous horizons dans notre établissement d'Arcachon.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack :<\/strong> Le classique absolu des jeux de table, accessible dès 20h30 chaque soir. Nos tables accueillent joueurs novices et confirmés dans une ambiance chaleureuse, avec des croupiers professionnels du Groupe Partouche garantissant une partie équitable et certifiée.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Boule 2000 :<\/strong> Jeu emblématique de la tradition française des casinos, la Boule 2000 est l'une des attractions incontournables de notre salle de jeux à Arcachon. Simple dans ses règles, elle offre des soirées palpitantes dans un cadre historique unique.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Horaires adaptés :<\/strong> Les jeux de table ouvrent du lundi au samedi à 20h30, et le dimanche dès 16h30 pour les joueurs qui souhaitent profiter d'une après-midi de divertissement dans notre casino de Gironde.<\/li>\n<\/ul>\n\n<h3>Roulette Anglaise Électronique : Innovation au Château Deganne<\/h3>\n<p>Notre casino d'Arcachon propose <strong>12 postes de Roulette anglaise électronique<\/strong>, disponibles tous les jours et à toute heure dès l'ouverture de l'établissement. Cette innovation technologique permet à nos joueurs de profiter du frisson de la roulette sans attendre l'ouverture des tables traditionnelles. Avec une interface intuitive et des graphismes de haute qualité, nos postes électroniques offrent la même expérience authentique que la roulette classique, tout en garantissant des résultats générés de façon aléatoire et certifiée par les autorités régulatrices françaises. C'est l'option idéale pour les visiteurs en séjour à Arcachon qui souhaitent profiter d'une courte session de jeu à n'importe quel moment de la journée.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ce3231;\">\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Jeu<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Horaires<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Disponibilité<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Machines à sous<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Dès 11h<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">7j\/7<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Roulette électronique<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Dès 11h<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">7j\/7<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Dès 20h30<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">7j\/7<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Boule 2000<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Dès 20h30<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">7j\/7<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Jeux du dimanche<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Dès 16h30<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Dimanche<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Le Jeu Responsable : Notre Engagement à Arcachon<\/h3>\n<p>Chez nous, le plaisir du jeu va de pair avec la responsabilité. Notre établissement du <strong>Château Deganne à Arcachon<\/strong> applique rigoureusement les dispositifs de jeu responsable imposés par la réglementation française. Nous mettons à la disposition de nos joueurs des outils d'auto-exclusion, des limites de temps et des ressources d'information sur les comportements de jeu. Notre personnel, formé aux standards du <strong>Groupe Partouche<\/strong>, est en mesure d'accompagner tout joueur qui en aurait besoin. Le jeu doit rester un loisir joyeux : c'est pourquoi nous veillons à ce que chaque visite dans notre casino de Gironde soit une expérience positive et maîtrisée. Pour toute information, n'hésitez pas à vous rendre à l'accueil du casino ou à contacter notre équipe, disponible 7j\/7 à Arcachon.<\/p>\n\n<h3>Pourquoi Choisir Notre Casino à Arcachon ?<\/h3>\n<p>Notre établissement se distingue de tous les autres lieux de divertissement de la région par la combinaison unique d'un <strong>cadre historique exceptionnel<\/strong> — le Château Deganne, monument emblématique d'Arcachon — et d'une offre de jeux certifiée et moderne. Appartenant au <strong>Groupe Partouche<\/strong>, opérateur officiel de 41 casinos en France depuis plus de 50 ans, nous bénéficions d'un savoir-faire reconnu dans l'industrie du gaming. Nos joueurs du Bassin d'Arcachon et de toute la Gironde apprécient la diversité de notre offre, allant des machines à sous aux jeux de table traditionnels en passant par la roulette électronique. Que vous soyez résident local ou touriste de passage en Nouvelle-Aquitaine, notre casino est l'adresse incontournable pour passer une soirée mémorable. Rejoignez-nous dès aujourd'hui et profitez d'une expérience de jeu d'exception au cœur d'Arcachon !<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Services & Expériences au Casino d'Arcachon",
+                        "description": "<h2>Une Expérience Complète au Château Deganne d'Arcachon<\/h2>\n\n<p>Notre casino d'Arcachon ne se limite pas aux jeux : nous vous proposons une expérience de divertissement globale, alliant gastronomie, animations musicales, programme de fidélité exclusif et services événementiels dans le cadre somptueux du <strong>Château Deganne<\/strong>, en plein cœur du Bassin d'Arcachon. En choisissant de passer votre soirée chez nous, vous accédez à un univers où chaque détail a été pensé pour votre plaisir, du restaurant gastronomique <strong>O'Deganne<\/strong> jusqu'aux animations live qui rythment nos week-ends en Gironde. Le tout sous l'égide du <strong>Groupe Partouche<\/strong>, gage de qualité et de sérieux depuis plus de 50 ans dans l'industrie française des casinos.<\/p>\n\n<h3>Restaurant O'Deganne : Gastronomie et Vue sur le Bassin<\/h3>\n<p>Notre restaurant <strong>O'Deganne<\/strong> est l'un des fleurons du Casino Partouche d'Arcachon. Installé dans les élégantes salles du Château Deganne, il propose une cuisine raffinée élaborée par notre chef, dans un cadre d'exception avec vue sur le Bassin d'Arcachon. Que vous souhaitiez dîner avant une soirée de jeux ou simplement profiter d'un repas gastronomique en Gironde, le restaurant O'Deganne s'impose comme une adresse incontournable de la gastronomie locale. Nos plats utilisent des produits frais et régionaux de Nouvelle-Aquitaine, vous garantissant une expérience culinaire authentique et mémorable à chaque visite.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cuisine raffinée :<\/strong> Notre chef élabore des menus inspirés des produits régionaux de Gironde et de Nouvelle-Aquitaine, avec une carte renouvelée régulièrement pour offrir à chaque visite une nouvelle découverte culinaire au cœur du Château Deganne d'Arcachon.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cadre historique :<\/strong> Dîner au restaurant O'Deganne, c'est s'installer dans l'une des plus belles salles du Château Deganne, monument emblématique du front de mer d'Arcachon. Un décor chargé d'histoire qui sublime chaque repas.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bar des jeux & Espace Lounge :<\/strong> Pour une pause plus légère, notre espace lounge et bar des jeux vous accueille pour des cocktails élaborés, des boissons rafraîchissantes et des plats préparés par notre chef, dans une atmosphère détendue et conviviale.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Coffrets cadeaux :<\/strong> Offrez à vos proches une expérience unique au Casino d'Arcachon grâce à nos coffrets et chèques cadeaux, incluant crédits de jeu, coupes de champagne et dîner gastronomique. Une idée cadeau originale pour les amateurs de divertissement en Gironde.<\/li>\n<\/ul>\n\n<h3>Animations & Concerts : Arcachon S'Embrase Chaque Samedi<\/h3>\n<p>Chez nous, l'ambiance ne s'arrête jamais ! Notre casino du <strong>Château Deganne<\/strong> organise des <strong>concerts gratuits chaque samedi soir<\/strong>, faisant vibrer les murs historiques de cet établissement emblématique d'Arcachon. Artistes locaux, groupes de jazz, soirées thématiques : notre programme d'animations est renouvelé régulièrement pour offrir à nos visiteurs du Bassin d'Arcachon des soirées toujours différentes et mémorables. Ces événements sont accessibles à tous nos joueurs, créant une atmosphère festive et conviviale qui distingue notre casino de tout autre établissement de Gironde. Consultez régulièrement notre programme pour ne manquer aucune soirée exceptionnelle à Arcachon.<\/p>\n\n<h3>Programme de Fidélité Players Plus<\/h3>\n<p>En tant que joueur régulier du Casino Partouche d'Arcachon, profitez pleinement de notre programme de fidélité exclusif <strong>Players Plus<\/strong>. Dès votre adhésion, vous bénéficiez de <strong>5 € offerts en crédits de jeu<\/strong>, d'offres promotionnelles personnalisées et d'invitations à des événements exclusifs dans notre établissement de Gironde. Le programme Players Plus récompense votre fidélité avec des avantages croissants : plus vous jouez dans notre casino du Bassin d'Arcachon, plus vous accumulez de points convertibles en crédits, entrées gratuites et réductions au restaurant O'Deganne. Ce programme, disponible dans l'ensemble des 41 casinos du Groupe Partouche, vous permet également de profiter de vos avantages lors de vos visites dans d'autres établissements de la chaîne à travers toute la France.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>5 € offerts à l'adhésion :<\/strong> Rejoignez Players Plus et recevez immédiatement 5 € en crédits de jeu pour commencer votre aventure au Casino Partouche d'Arcachon. Une offre de bienvenue réservée aux nouveaux membres du programme de fidélité.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Offres SMS exclusives :<\/strong> En acceptant nos communications, bénéficiez d'offres spéciales personnalisées, d'invitations à des soirées privées et d'événements VIP dans notre casino de Gironde. Des avantages réservés à nos membres fidèles.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Réseau Partouche :<\/strong> Votre carte Players Plus est valable dans les 41 casinos du Groupe Partouche à travers la France et au-delà, vous permettant de profiter de vos avantages fidélité où que vous soyez en déplacement.<\/li>\n<\/ul>\n\n<h3>Espace de Réception : Événements au Château Deganne<\/h3>\n<p>Le <strong>Casino Partouche d'Arcachon<\/strong> met à votre disposition un espace de réception unique pour vos événements personnels ou professionnels. Mariages avec vue sur le Bassin d'Arcachon, séminaires d'entreprise, réceptions familiales ou soirées de gala : notre salle du Château Deganne, monument historique de Gironde, offre un cadre exceptionnel et inoubliable. Notre équipe événementielle accompagne chaque organisateur dans la personnalisation de son événement, depuis la disposition des tables jusqu'au menu gastronomique élaboré par notre chef. Contactez-nous pour obtenir un devis personnalisé et organiser votre prochain événement dans l'un des lieux les plus emblématiques d'Arcachon.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ce3231;\">\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Service<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Détails<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Accès<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Restaurant O'Deganne<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Cuisine gastronomique<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">7j\/7<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Bar Lounge<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Cocktails & snacks<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">7j\/7<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Concerts live<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Gratuit<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Chaque samedi<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Players Plus<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">5 € offerts<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Sur adhésion<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Espace réception<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Événements privés<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Sur réservation<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Coffrets cadeaux<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Dès 50 € \/ 2 pers.<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">Sur commande<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Comment Nous Rejoindre à Arcachon ?<\/h3>\n<p>Vous souhaitez vivre une soirée inoubliable au <strong>Casino Partouche Arcachon<\/strong> ? Rien de plus simple ! Notre établissement est idéalement situé au <strong>Château Deganne, Boulevard de la Plage à Arcachon<\/strong>, à deux pas du front de mer. En voiture, rejoignez-nous via l'autoroute A63 puis la N250 ; en train, la gare SNCF d'Arcachon n'est qu'à 5 minutes à pied ; en avion, l'aéroport de Bordeaux se trouve à seulement 45 minutes en voiture. Notre parking est accessible à tous nos visiteurs. Préparez vos pièces d'identité valides, car l'accès à nos salles de jeux est réservé aux personnes majeures, conformément à la réglementation française sur les jeux. Nous vous attendons 7j\/7 pour une expérience unique en Gironde !<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Quels jeux sont disponibles au Casino Partouche d'Arcachon ?",
+                            "answer": "Notre casino propose 75 machines à sous, des tables de Blackjack, la Boule 2000 et 12 postes de Roulette anglaise électronique. Les machines à sous ouvrent dès 11h, les jeux de table à partir de 20h30 (16h30 le dimanche). Tous nos jeux sont certifiés conformes par les autorités françaises de régulation."
+                        },
+                        {
+                            "title": "Quels sont les horaires d'ouverture du Casino d'Arcachon ?",
+                            "answer": "Notre casino est ouvert 7 jours sur 7. Les machines à sous sont accessibles dès 11h et ferment à 1h du matin (3h les vendredis et samedis). Les jeux de table traditionnels ouvrent chaque soir à 20h30, et dès 16h30 le dimanche pour profiter d'une après-midi de jeux en Gironde."
+                        },
+                        {
+                            "title": "Comment fonctionne le programme de fidélité Players Plus ?",
+                            "answer": "Adhérez gratuitement à Players Plus et recevez 5 € en crédits de jeu offerts. À chaque visite au Casino Partouche d'Arcachon, cumulez des points convertibles en avantages : crédits jeux, réductions au restaurant O'Deganne et invitations à des soirées exclusives. Votre carte est valable dans les 41 casinos du Groupe Partouche en France."
+                        },
+                        {
+                            "title": "Le Casino d'Arcachon dispose-t-il d'un restaurant ?",
+                            "answer": "Oui, notre restaurant gastronomique O'Deganne est installé dans le Château Deganne, avec une vue imprenable sur le Bassin d'Arcachon. Notre chef y propose une cuisine raffinée à base de produits régionaux de Gironde. Le bar lounge vous accueille également pour des cocktails et des plats légers tout au long de la soirée."
+                        },
+                        {
+                            "title": "Y a-t-il des animations et concerts au casino ?",
+                            "answer": "Oui ! Notre casino du Château Deganne organise des concerts gratuits chaque samedi soir, ouverts à tous nos visiteurs. Nous proposons également des soirées thématiques et des animations régulières tout au long de l'année à Arcachon. Consultez notre programme sur le site pour ne manquer aucun événement."
+                        },
+                        {
+                            "title": "Comment réserver une salle de réception au Château Deganne ?",
+                            "answer": "Contactez directement notre équipe événementielle pour organiser votre mariage, séminaire ou réception privée dans notre salle du Château Deganne à Arcachon. Nous vous proposons un accompagnement personnalisé, un menu gastronomique sur mesure et un cadre historique unique en Gironde avec vue sur le Bassin d'Arcachon."
+                        },
+                        {
+                            "title": "Le Casino Partouche d'Arcachon est-il agréé et sécurisé ?",
+                            "answer": "Absolument. Notre établissement est agréé et opère sous la réglementation stricte des jeux en France. Membre du Groupe Partouche, opérateur officiel de 41 casinos depuis plus de 50 ans, nous appliquons des protocoles rigoureux de sécurité et de jeu responsable. Tous nos jeux sont certifiés conformes par les autorités compétentes françaises."
+                        },
+                        {
+                            "title": "Comment accéder au Casino Partouche situé à Arcachon ?",
+                            "answer": "Notre casino est situé au Château Deganne, Boulevard de la Plage à Arcachon. Accessible en voiture via l'A63 puis la N250, en train (gare SNCF à 5 min à pied) ou en avion depuis Bordeaux-Mérignac à 45 min. L'accès est réservé aux personnes majeures, muni d'une pièce d'identité valide."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
